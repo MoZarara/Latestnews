@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">اخر الاخبار</string>
+    <string name="Policy">اخبار عامه</string>
+    <string name="Sports">اخبار الرياضه</string>
+    <string name="Business">اخبار المال والاعمال</string>
+    <string name="Health">اخبار الصحه</string>
+    <string name="Science">اخبار علميه</string>
+    <string name="Entertainment">اخبار الفن</string>
+
+    <string name="no_news">حدث خطأ في جلب المعلومات من المصدر! ..انتقل الي صفحه اخبار اخري حتي يتم اعاده تحميل تلك الصفحه</string>
+    <string name="no_internet_connection">لا يوجد اتصال بالإنترنت.</string>
+
+    <string name="Share"> مشاركة </string>
+    <string name="share_message">اختر التطبيق الذي ترغب بمشاركه المنشور عليه.</string>
+    <string name="Google_news">اخبار عربيه وعالميه</string>
+
+
+    <string name="BBC_News">BBC News</string>
+    <string name="Al_Jazeera_English">Al_Jazeera English</string>
+    <string name="CNN">CNN</string>
+    <string name="ABC_News">ABC News</string>
+    <string name="Fox_Sports">Fox Sports</string>
+    <string name="BBC_Sport">BBC Sport</string>
+
+    <string name="News_Name_key" translatable="false">news_key</string>
+
+    <string name="googleNews" translatable="false">0</string>
+    <string name="PolicyNews" translatable="false">1</string>
+    <string name="SportsNews" translatable="false">2</string>
+    <string name="BusinessNews" translatable="false">3</string>
+    <string name="HealthNews" translatable="false">4</string>
+    <string name="ScienceNews" translatable="false">5</string>
+    <string name="EntertainmentNews" translatable="false">6</string>
+    <string name="BBCNews" translatable="false">7</string>
+    <string name="Al_JazeeraNews" translatable="false">8</string>
+    <string name="CNNNews" translatable="false">9</string>
+    <string name="ABCNews" translatable="false">10</string>
+    <string name="FoxNews" translatable="false">11</string>
+    <string name="BBCSportNews" translatable="false">12</string>
+
+
+</resources>

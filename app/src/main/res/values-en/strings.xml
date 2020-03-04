@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Latest news</string>
+    <string name="Policy">General News</string>
+    <string name="Sports">Sports News</string>
+    <string name="Business">Business News</string>
+    <string name="Health">Health News</string>
+    <string name="Science">Scientific News</string>
+    <string name="Entertainment">Entertainment News</string>
+
+    <string name="Share">Share</string>
+    <string name="no_news">No news found. Reload this page.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="share_message">Choose the application you want ..</string>
+
+
+    <string name="Google_news">Arab and international news</string>
+    <string name="BBC_News">BBC News</string>
+    <string name="Al_Jazeera_English">Al_Jazeera English</string>
+    <string name="CNN">CNN</string>
+    <string name="ABC_News">ABC News</string>
+    <string name="Fox_Sports">Fox Sports</string>
+    <string name="BBC_Sport">BBC Sport</string>
+
+
+</resources>
